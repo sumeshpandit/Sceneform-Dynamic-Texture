@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ar.sceneform:assets:1.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/assets-1.5.1.aar/ddc1116f41f6947c4d4e9ba29df3b58d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/assets-1.5.1.aar/ddc1116f41f6947c4d4e9ba29df3b58d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/assets-1.5.1.aar/ddc1116f41f6947c4d4e9ba29df3b58d/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

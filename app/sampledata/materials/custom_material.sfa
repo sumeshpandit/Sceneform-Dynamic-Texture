@@ -1,0 +1,34 @@
+{
+  materials: [
+    {
+      name: 'Material',
+      parameters: [
+        {
+          baseColorMap: 'MISSING_PATH',
+        },
+        {
+          normalMap: 'MISSING_PATH',
+        },
+        {
+          metallicMap: 'MISSING_PATH',
+        },
+        {
+          roughnessMap: 'MISSING_PATH',
+        },
+      ],
+      source: 'sampledata/materials/pbr_material.mat',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/materials/custom_material.obj',
+    name: 'custom_material',
+    recenter: 'root',
+    scale: 0.5,
+  },
+  version: '0.52:1',
+}

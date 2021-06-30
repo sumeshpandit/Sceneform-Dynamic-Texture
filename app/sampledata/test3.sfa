@@ -1,0 +1,132 @@
+{
+  animations: [
+    {
+      path: 'sampledata/test3.fbx',
+    },
+  ],
+  materials: [
+    {
+      name: 'M2_Seat_Steer',
+      parameters: [
+        {
+          baseColorMap: 'MISSING_PATH',
+        },
+        {
+          normalMap: 'MISSING_PATH',
+        },
+        {
+          metallicMap: 'MISSING_PATH',
+        },
+        {
+          roughnessMap: 'MISSING_PATH',
+        },
+      ],
+      source: 'sampledata/test3.mat',
+    },
+    {
+      name: 'M3_Bumper',
+      parameters: [
+        {
+          baseColorMap: 'MISSING_PATH',
+        },
+        {
+          normalMap: 'MISSING_PATH',
+        },
+        {
+          metallicMap: 'MISSING_PATH',
+        },
+        {
+          roughnessMap: 'MISSING_PATH',
+        },
+      ],
+      source: 'sampledata/test3.mat',
+    },
+    {
+      name: 'M5_Static2',
+      parameters: [
+        {
+          baseColorMap: 'MISSING_PATH',
+        },
+        {
+          normalMap: 'MISSING_PATH',
+        },
+        {
+          metallicMap: 'MISSING_PATH',
+        },
+        {
+          roughnessMap: 'MISSING_PATH',
+        },
+      ],
+      source: 'sampledata/test3.mat',
+    },
+    {
+      name: 'M4_Static1',
+      parameters: [
+        {
+          baseColorMap: 'MISSING_PATH',
+        },
+        {
+          normalMap: 'MISSING_PATH',
+        },
+        {
+          metallicMap: 'MISSING_PATH',
+        },
+        {
+          roughnessMap: 'MISSING_PATH',
+        },
+      ],
+      source: 'sampledata/test3.mat',
+    },
+    {
+      name: 'M1_MainBody',
+      parameters: [
+        {
+          baseColorMap: 'MISSING_PATH',
+        },
+        {
+          normalMap: 'MISSING_PATH',
+        },
+        {
+          metallicMap: 'MISSING_PATH',
+        },
+        {
+          roughnessMap: 'MISSING_PATH',
+        },
+      ],
+      source: 'sampledata/test3.mat',
+    },
+    {
+      name: 'M6_Transparency',
+      parameters: [
+        {
+          baseColorMap: 'MISSING_PATH',
+        },
+        {
+          normalMap: 'MISSING_PATH',
+        },
+        {
+          metallicMap: 'MISSING_PATH',
+        },
+        {
+          roughnessMap: 'MISSING_PATH',
+        },
+      ],
+      source: 'sampledata/test3.mat',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'sampledata/test3.fbx',
+    name: 'test3',
+    recenter: 'root',
+    scale: 0.011823999999999999,
+  },
+  version: '0.52:1',
+}
